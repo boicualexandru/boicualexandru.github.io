@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21967c7c.chunk.css",
+    "main.js": "/static/js/main.1df3c68b.chunk.js",
+    "main.js.map": "/static/js/main.1df3c68b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dbcba924.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dbcba924.js.map",
+    "static/css/2.8f0d8aca.chunk.css": "/static/css/2.8f0d8aca.chunk.css",
+    "static/js/2.923421b9.chunk.js": "/static/js/2.923421b9.chunk.js",
+    "static/js/2.923421b9.chunk.js.map": "/static/js/2.923421b9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9c7a14ba0331ed57084aea8ebf4a4eeb.js": "/precache-manifest.9c7a14ba0331ed57084aea8ebf4a4eeb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8f0d8aca.chunk.css.map": "/static/css/2.8f0d8aca.chunk.css.map",
+    "static/css/main.21967c7c.chunk.css.map": "/static/css/main.21967c7c.chunk.css.map",
+    "static/media/MacBookPro_iphone_restaurant_SMALL.png": "/static/media/MacBookPro_iphone_restaurant_SMALL.38399681.png",
+    "static/media/index.scss": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/browser_mockup_restaurants.png": "/static/media/browser_mockup_restaurants.589f6ee3.png",
+    "static/media/browser_phone_hotel.png": "/static/media/browser_phone_hotel.edee4950.png",
+    "static/media/browser_phone_login.png": "/static/media/browser_phone_login.b578893f.png",
+    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/heroImage.png": "/static/media/heroImage.5948a28d.png",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/moons_icon.png": "/static/media/moons_icon.4ed90c9d.png",
+    "static/media/moons_included_services.png": "/static/media/moons_included_services.d48b4990.png",
+    "static/media/moons_locations.png": "/static/media/moons_locations.ea44cca6.png",
+    "static/media/moons_menu_modal.png": "/static/media/moons_menu_modal.e396719f.png",
+    "static/media/moons_menus.png": "/static/media/moons_menus.2cfc8845.png",
+    "static/media/moons_room_modal.png": "/static/media/moons_room_modal.3c857f5d.png",
+    "static/media/moons_rooms.png": "/static/media/moons_rooms.e9279bf7.png",
+    "static/media/profileBlob.png": "/static/media/profileBlob.a78d00ef.png",
+    "static/media/styles.css": "/static/media/revicons.2feb69cc.eot",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.de3da806.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbcba924.js",
+    "static/css/2.8f0d8aca.chunk.css",
+    "static/js/2.923421b9.chunk.js",
+    "static/css/main.21967c7c.chunk.css",
+    "static/js/main.1df3c68b.chunk.js"
+  ]
+}
