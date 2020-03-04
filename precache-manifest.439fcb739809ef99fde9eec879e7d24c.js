@@ -1,51 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fa8268763b365e651bdd5747891df4e",
+    "revision": "c2be03d34323d78ded07f141553f1b55",
     "url": "/index.html"
   },
   {
-    "revision": "b27713ce62ba85023cbb",
+    "revision": "039991ab14b509bb5831",
     "url": "/static/css/2.8f0d8aca.chunk.css"
   },
   {
-    "revision": "13344e8dff4bd9e189fa",
-    "url": "/static/css/main.7a110bba.chunk.css"
+    "revision": "3c17f9a0b379ba6c11fa",
+    "url": "/static/css/main.137b3c85.chunk.css"
   },
   {
-    "revision": "b27713ce62ba85023cbb",
-    "url": "/static/js/2.923421b9.chunk.js"
+    "revision": "039991ab14b509bb5831",
+    "url": "/static/js/2.42290c96.chunk.js"
   },
   {
-    "revision": "13344e8dff4bd9e189fa",
-    "url": "/static/js/main.f166e22b.chunk.js"
+    "revision": "3c17f9a0b379ba6c11fa",
+    "url": "/static/js/main.21b55d72.chunk.js"
   },
   {
     "revision": "637a7aeb85c48549849f",
     "url": "/static/js/runtime-main.dbcba924.js"
   },
   {
-    "revision": "38399681c789c5f4b02bfd2f47038f93",
-    "url": "/static/media/MacBookPro_iphone_restaurant_SMALL.38399681.png"
-  },
-  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "589f6ee31af7dda03d2bd7929784dfb9",
-    "url": "/static/media/browser_mockup_restaurants.589f6ee3.png"
-  },
-  {
-    "revision": "edee495091704bbaa4078bd5be78bae8",
-    "url": "/static/media/browser_phone_hotel.edee4950.png"
-  },
-  {
-    "revision": "b578893f27571082b09ee34a256c53c3",
-    "url": "/static/media/browser_phone_login.b578893f.png"
-  },
-  {
-    "revision": "d6d4086fb1cade58b3f786620e17c3ef",
-    "url": "/static/media/contactMail.d6d4086f.png"
+    "revision": "9550e332f45e71453d6d9b99fa7dd929",
+    "url": "/static/media/contactMail.9550e332.jpg"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
@@ -108,44 +92,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
-    "revision": "5948a28df5163f333e9d75b17bf0a295",
-    "url": "/static/media/heroImage.5948a28d.png"
+    "revision": "5a500992e2ba76e53380ed319debd8a2",
+    "url": "/static/media/heroImage-min.5a500992.jpg"
+  },
+  {
+    "revision": "65b269bc266bf851016b36aac90884f4",
+    "url": "/static/media/hotel-min.65b269bc.jpg"
+  },
+  {
+    "revision": "c7c498f7fb1814075155fb443bf05bb0",
+    "url": "/static/media/included_services-min.c7c498f7.jpg"
+  },
+  {
+    "revision": "de59355af9699bd92b10b5f8e85cdfa2",
+    "url": "/static/media/locations-min.de59355a.jpg"
+  },
+  {
+    "revision": "621a4c28863fa5f33716e76d3d00bf3b",
+    "url": "/static/media/login-min.621a4c28.jpg"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
     "url": "/static/media/logo.25bf045c.svg"
   },
   {
-    "revision": "4ed90c9d0400bfd5830c6c65f3007da6",
-    "url": "/static/media/moons_icon.4ed90c9d.png"
+    "revision": "f9f7148c0412da579d81f6f7b4099ebd",
+    "url": "/static/media/menu_modal-min.f9f7148c.jpg"
   },
   {
-    "revision": "d48b4990d509edda0d20c18b351fd758",
-    "url": "/static/media/moons_included_services.d48b4990.png"
+    "revision": "2cb9ac27cdd95783065a91431f340e8a",
+    "url": "/static/media/menus-min.2cb9ac27.jpg"
   },
   {
-    "revision": "ea44cca684975eb893750d72594aecb4",
-    "url": "/static/media/moons_locations.ea44cca6.png"
+    "revision": "c45e923083c0f706ea99396a7d6d6e2c",
+    "url": "/static/media/profileBlob.c45e9230.jpg"
   },
   {
-    "revision": "e396719f25cd98700d965b91e661ae79",
-    "url": "/static/media/moons_menu_modal.e396719f.png"
+    "revision": "57fcd59b63bbde370cd24babc3d10dfb",
+    "url": "/static/media/restaurant-min.57fcd59b.jpg"
   },
   {
-    "revision": "2cfc88451863d81471f39e727271af29",
-    "url": "/static/media/moons_menus.2cfc8845.png"
-  },
-  {
-    "revision": "3c857f5d1156dd327c5261ffd5902600",
-    "url": "/static/media/moons_room_modal.3c857f5d.png"
-  },
-  {
-    "revision": "e9279bf765cb9ae66f8259eaa2b52837",
-    "url": "/static/media/moons_rooms.e9279bf7.png"
-  },
-  {
-    "revision": "a78d00efe8d5bc5f9215508ef5fa89f9",
-    "url": "/static/media/profileBlob.a78d00ef.png"
+    "revision": "4d03209a3cc04cbd2b4e4b5321c14b18",
+    "url": "/static/media/restaurants-min.4d03209a.jpg"
   },
   {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
@@ -158,6 +146,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2feb69ccb596730c72920c6ba3e37ef8",
     "url": "/static/media/revicons.2feb69cc.eot"
+  },
+  {
+    "revision": "5b876501f849be85af50f6ca866b19d4",
+    "url": "/static/media/room_modal-min.5b876501.jpg"
+  },
+  {
+    "revision": "d7bbab03ea5dc2d16288fa9c75a45f19",
+    "url": "/static/media/rooms-min.d7bbab03.jpg"
   },
   {
     "revision": "de3da8064f2e9ffab945772c2c67e46f",
