@@ -1,2 +1,3 @@
 # https://www.robotstxt.org/robotstxt.html
+Sitemap: https://boicualexandru.github.io/sitemap.xml
 User-agent: *
